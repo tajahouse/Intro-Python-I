@@ -60,7 +60,7 @@ def f4(**kvp):
 
 # kvp = (*"a", **12) 
 
-f4(a=12)
+f4(a=12, b=30)
 ##Hmmmmm f4????
 
 # key: a, value: 12
