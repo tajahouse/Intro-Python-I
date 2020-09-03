@@ -1,0 +1,3 @@
+Some content that I want to write
+...will be in this file.
+And I will commit this to memory!
